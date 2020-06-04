@@ -1,7 +1,7 @@
 ## This two functions will help in caching the inverse of the matrix. Very long vector may take
 ## too long to compute the mean. Thus below two functions helps in
 ## storing the matrix and caches its inverse, thus saving the time 
-## This programming is done using the Laxical scoping  
+## This programming is done using the Lexical scoping  
 
 
 ## Below mentioned function is creating a matrix that helps in caching its inverse 
